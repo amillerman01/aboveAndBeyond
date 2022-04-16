@@ -8,4 +8,4 @@ If you want to contribute to this repository, please email me. Post any question
 
 # Creating a JavaScript LinkedList
 This jsfiddle contains several ways to create a linkedList using nested objects in JavaScript. I'll put it in its own file/folder here soon
-https://jsfiddle.net/h1jak64v/5/
+https://jsfiddle.net/amillerman/279tr1no/2/
