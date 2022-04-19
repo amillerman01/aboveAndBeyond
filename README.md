@@ -27,5 +27,5 @@ You can do this with any branch, or any specific commit's codebase on the reposi
 # Fun code samples
 
 ## Creating a JavaScript LinkedList
-This jsfiddle contains several ways to create a linkedList using nested objects in JavaScript. I'll put it in its own file/folder here soon
+This jsfiddle contains several ways to create a linkedList using nested objects in JavaScript, including using recursion and (multiple variable assignment)[https://electrictoolbox.com/javascript-multiple-variable-assignment/]. I'll put it in its own file/folder here soon
 https://jsfiddle.net/amillerman/279tr1no/2/
