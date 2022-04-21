@@ -8,7 +8,9 @@ If you want to contribute to this repository, please email me. Post any question
 
 # Cool tools
 
-made a change
+## vscode.dev
+
+You can access your code and make changes in visual studio code directly in the browser! Go to the repository in github, navigate to the folder that contains the code you want to view/edit, and change the start of the url from "github.com" to "vscode.dev/github". 
 
 ## CodeSandbox.io
 
