@@ -28,8 +28,13 @@ You can run any repositories front end application that uses angular, react, vue
 
 You can do this with any branch, or any specific commit's codebase on the repository as well. Currently if you're using angular with angular material, it will not load custom themes in angular13 or higher, so just use a default theme for testing.
 
+## Cool things in JavaScript
+
+There are a lot of operators in JavaScript, some of which I'm still learning about too, and you can see their order of operations here!
+> https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence#table
+
 # Fun code samples
 
 ## Creating a JavaScript LinkedList
-This jsfiddle contains several ways to create a linkedList using nested objects in JavaScript, including using recursion and (multiple variable assignment)[https://electrictoolbox.com/javascript-multiple-variable-assignment/]. I'll put it in its own file/folder here soon
+This jsfiddle contains several ways to create a linkedList using nested objects in JavaScript, including using recursion and [multiple variable assignment](https://electrictoolbox.com/javascript-multiple-variable-assignment/) . I'll put it in its own file/folder here soon
 https://jsfiddle.net/amillerman/279tr1no/2/
