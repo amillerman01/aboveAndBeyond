@@ -14,7 +14,7 @@ If you want to contribute to this repository, please email me. Post any question
   - [Operator precedence (for all 19 types!)](#operator-precedence-for-all-19-types)
   - [Methods with infinite parameter inputs](#methods-with-infinite-parameter-inputs)
 - [Fun code samples](#fun-code-samples)
-  - [Creating a JavaScript LinkedList](#creating-a-javascript-linkedlist)
+  - [Creating a JavaScript linked list (soft of)](#creating-a-javascript-linked-list-soft-of)
   - [Replace characters in a string](#replace-characters-in-a-string)
 
 # Cool tools
@@ -54,7 +54,8 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest
 
 # Fun code samples
 
-## Creating a JavaScript LinkedList
+## Creating a JavaScript linked list (soft of)
+
 This jsfiddle contains several ways to create a linkedList using nested objects in JavaScript, including using recursion and [multiple variable assignment](https://electrictoolbox.com/javascript-multiple-variable-assignment/) . I'll put it in its own file/folder here soon
 https://jsfiddle.net/amillerman/279tr1no/2/
 
