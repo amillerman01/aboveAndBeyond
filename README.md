@@ -38,3 +38,9 @@ There are a lot of operators in JavaScript, some of which I'm still learning abo
 ## Creating a JavaScript LinkedList
 This jsfiddle contains several ways to create a linkedList using nested objects in JavaScript, including using recursion and [multiple variable assignment](https://electrictoolbox.com/javascript-multiple-variable-assignment/) . I'll put it in its own file/folder here soon
 https://jsfiddle.net/amillerman/279tr1no/2/
+
+## Replace characters in a string
+
+Needed this in order to build a readme file, and generate local links in the readme file to headings. Objects with characters as the keys are a fun little quirky thing you can do in JavaScript!
+
+https://jsfiddle.net/undmbpfk/1/
