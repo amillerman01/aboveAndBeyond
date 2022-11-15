@@ -16,6 +16,7 @@ If you want to contribute to this repository, please email me. Post any question
 - [Fun code samples](#fun-code-samples)
   - [Creating a JavaScript linked list (soft of)](#creating-a-javascript-linked-list-soft-of)
   - [Replace characters in a string](#replace-characters-in-a-string)
+- [Practice algorithms](#practice-algorithms)
 
 # Cool tools
 
@@ -65,3 +66,12 @@ Needed this in order to build a readme file, and generate local links in the rea
 
 https://jsfiddle.net/undmbpfk/1/
 
+
+# Practice algorithms
+
+- Fibonacci
+- Factorial
+- Binary search
+- Bubble sort
+- Insert sort
+- 
